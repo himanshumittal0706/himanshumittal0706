@@ -6,19 +6,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-whatstool&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-whatstool" /> </p>
 
-- 🔭 I’m currently working on [WhatsTool Tech Limitless Possibilities](https://app.whatstool.business/auth)
+- 🔭 I’m currently working on [Incture Technology](https://incture.com/)
 
 - 🌱 I’m currently learning **ReactJs, NodeJs, Bootstrap, MaterialUi, Ant Design, SQl**
 
 - 👯 I’m looking to collaborate on [QnAPe Blogs](https://qnape.com/)
 
-- 🤝 I’m looking for help with [WhatsTool Tech](https://whatstool.in/)
+- 🤝 I’m looking for help with [Incture Technology](https://incture.com/)
 
 - 👨‍💻 All of my projects are available at [https://ancienttrip.com/](https://ancienttrip.com/)
 
 - 📝 I regularly write articles on [https://mittal420.hashnode.dev/](https://mittal420.hashnode.dev/)
 
-- 💬 Ask me about **Proficient in multiple programming languages Front end developer with 2 year of expertise in React JS, and Javascript, Typescript, Node JS, Bootstrap 5, HTML5, CSS3. I’m looking for a company that will enable me to discover my talents and abilities and make the greatest use of them to forward their objectives.**
+- 💬 Ask me about **Proficient in multiple programming languages Front end developer with 2+ years of expertise in React JS, and Javascript, Typescript, Node JS, Bootstrap 5, HTML5, CSS3. I’m looking for a company that will enable me to discover my talents and abilities and make the greatest use of them to forward their objectives.**
 
 - 📫 How to reach me **himanshumittal0706@gmail.com**
 
