@@ -1,10 +1,10 @@
 ![logo](https://github.com/himanshumittal0706/himanshumittal0706/blob/main/Github_banner.png)
 <h2 align="center">Hi 👋, I'm Himanshu Mittal</h2>
-<h3 align="center">A passionate Software Developer from India currently working in Whatstool Tech</h3>
+<h3 align="center">A passionate Software Developer from India currently working in Incture Technologies</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-whatstool&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-whatstool" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-whatstool&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu" /> </p>
 
 - 🔭 I’m currently working on [Incture Technology](https://incture.com/)
 
@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [https://mittal420.hashnode.dev/](https://mittal420.hashnode.dev/)
 
-- 💬 Ask me about **Proficient in multiple programming languages Front end developer with 2+ years of expertise in React JS, and Javascript, Typescript, Node JS, Bootstrap 5, HTML5, CSS3. I’m looking for a company that will enable me to discover my talents and abilities and make the greatest use of them to forward their objectives.**
+- 💬 Ask me about **Proficient in multiple programming languages FullStack Development with 3+ years of expertise in React JS, Javascript, Typescript, Node JS, NextJS, Bootstrap 5, HTML5, CSS3. I’m looking for a company that will enable me to discover my talents and abilities and make the most of them to advance my objectives.**
 
 - 📫 How to reach me **himanshumittal0706@gmail.com**
 
