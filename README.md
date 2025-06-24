@@ -6,11 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-whatstool&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu" /> </p>
 
-- 🔭 I’m currently working on [Incture Technology](https://incture.com/)
+- 🔭 I’m currently working at [Incture Technology](https://incture.com/)
 
-- 🌱 I’m currently learning **ReactJs, NodeJs, Bootstrap, MaterialUi, Ant Design, SQl**
-
-- 👯 I’m looking to collaborate on [QnAPe Blogs](https://qnape.com/)
+- 🌱 I’m currently learning **ReactJs, NodeJs, Bootstrap, MaterialUi, Ant Design, SQL**
 
 - 🤝 I’m looking for help with [Incture Technology](https://incture.com/)
 
@@ -21,8 +19,6 @@
 - 💬 Ask me about **Proficient in multiple programming languages FullStack Development with 3+ years of expertise in React JS, Javascript, Typescript, Node JS, NextJS, Bootstrap 5, HTML5, CSS3. I’m looking for a company that will enable me to discover my talents and abilities and make the most of them to advance my objectives.**
 
 - 📫 How to reach me **himanshumittal0706@gmail.com**
-
-- 📄 Know about my experiences [https://himanshumittal02.hackerresume.io/78643fe6-8709-49e2-802a-0dd5fa16151f](https://himanshumittal02.hackerresume.io/78643fe6-8709-49e2-802a-0dd5fa16151f)
 
 - ⚡ Fun fact **simple living, high thinking**
 
